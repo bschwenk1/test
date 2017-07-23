@@ -1,2 +1,2 @@
 # test
-testproject
+Dit is een testproject.
